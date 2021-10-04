@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Shopforever App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##
+
+Live demo is available at: shopforever.netlify.app/
 
 ## Available Scripts
 
